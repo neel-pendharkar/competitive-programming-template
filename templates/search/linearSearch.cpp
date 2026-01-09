@@ -1,4 +1,3 @@
-
 void solve() {
     int n, s;
     cin>>n>>s;
