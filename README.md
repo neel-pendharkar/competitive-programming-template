@@ -1,0 +1,1 @@
+C:/Softwares/mingw64/bin/g++.exe program.cpp -o program.exe ; ./program.exe
